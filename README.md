@@ -1,5 +1,6 @@
 # AI-Powered-SOP-Creation
 
+AI Powered standard operating procedures (SOPs) for industrial manufacturing
 From video to document — streamline your manufacturing processes with AI.
 
 # 提案
